@@ -1,0 +1,9 @@
+streamlit
+transformers
+torch
+accelerate
+huggingface_hub
+datasets
+pandas
+plotly
+scikit-learn
