@@ -15,10 +15,10 @@ scikit-learn>=1.3.0
 
 # --- Visualization ---
 plotly>=5.18.0
-scipy
+scipy>1.10.0
 # --- Utilities ---
 # specific encoding fix for some Windows environments
-charset-normalizer>=3.3.0
+# charset-normalizer>=3.3.0
 
 bitsandbytes>=0.41.0
 networkx>=3.0
